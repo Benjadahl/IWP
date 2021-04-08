@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Is blue a colour?",
+    "answer": "true"
+  },
+  {
+    "question": "What is the opposite of true?",
+    "answer": "false"
+  },
+  {
+    "question": "What is 2+2?",
+    "answer": "4"
+  }
+]
